@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.exe
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.deps.json
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.runtimeconfig.json
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.dll
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\ref\Менюшка,циклы,классы.dll
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\bin\Debug\net5.0\Менюшка,циклы,классы.pdb
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.dll
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\ref\Менюшка,циклы,классы.dll
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.pdb
+C:\Users\Кирюха\source\repos\Менюшка,циклы,классы\Менюшка,циклы,классы\obj\Debug\net5.0\Менюшка,циклы,классы.genruntimeconfig.cache
