@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.exe
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.deps.json
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.runtimeconfig.json
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.dll
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\ref\Менюшка.dll
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\bin\Debug\net5.0\Менюшка.pdb
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.dll
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\ref\Менюшка.dll
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.pdb
+C:\Users\Кирюха\source\repos\Менюшка\Менюшка\obj\Debug\net5.0\Менюшка.genruntimeconfig.cache

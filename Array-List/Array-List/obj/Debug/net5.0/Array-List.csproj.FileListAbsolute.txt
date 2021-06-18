@@ -1,0 +1,15 @@
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.exe
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.deps.json
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.runtimeconfig.json
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.dll
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\ref\Array-List.dll
+C:\Users\Кирюха\source\repos\Array-List\Array-List\bin\Debug\net5.0\Array-List.pdb
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.dll
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\ref\Array-List.dll
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.pdb
+C:\Users\Кирюха\source\repos\Array-List\Array-List\obj\Debug\net5.0\Array-List.genruntimeconfig.cache

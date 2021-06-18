@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.exe
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.deps.json
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.runtimeconfig.json
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.dll
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\ref\Тест.dll
+C:\Users\Кирюха\source\repos\Тест\Тест\bin\Debug\net5.0\Тест.pdb
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.dll
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\ref\Тест.dll
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.pdb
+C:\Users\Кирюха\source\repos\Тест\Тест\obj\Debug\net5.0\Тест.genruntimeconfig.cache

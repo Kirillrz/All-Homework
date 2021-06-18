@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.exe
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.deps.json
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.runtimeconfig.json
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.dll
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\ref\sinX.dll
+C:\Users\Кирюха\source\repos\sinX\sinX\bin\Debug\net5.0\sinX.pdb
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.dll
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\ref\sinX.dll
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.pdb
+C:\Users\Кирюха\source\repos\sinX\sinX\obj\Debug\net5.0\sinX.genruntimeconfig.cache
