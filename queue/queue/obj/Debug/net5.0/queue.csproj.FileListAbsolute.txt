@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.exe
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.deps.json
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.runtimeconfig.json
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.dll
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\ref\queue.dll
+C:\Users\Кирюха\source\repos\queue\queue\bin\Debug\net5.0\queue.pdb
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.dll
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\ref\queue.dll
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.pdb
+C:\Users\Кирюха\source\repos\queue\queue\obj\Debug\net5.0\queue.genruntimeconfig.cache
