@@ -64,6 +64,16 @@ namespace Менюшка_циклы_классы
             Console.Clear();
             Console.WriteLine("A=B");
             Console.WriteLine(a + "=" + b);
+            for (int i = 0; i<5 ;i++ )
+            {
+
+            }
+
         }
+        
+        
     }
+
+
+
 }

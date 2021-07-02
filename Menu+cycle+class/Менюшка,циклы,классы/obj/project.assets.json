@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\Menu+for+class\\Менюшка,циклы,классы\\Менюшка,циклы,классы.csproj",
+      "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\Menu+cycle+class\\Менюшка,циклы,классы\\Менюшка,циклы,классы.csproj",
       "projectName": "Менюшка,циклы,классы",
-      "projectPath": "C:\\Users\\Кирюха\\source\\repos\\Menu+for+class\\Менюшка,циклы,классы\\Менюшка,циклы,классы.csproj",
+      "projectPath": "C:\\Users\\Кирюха\\source\\repos\\Menu+cycle+class\\Менюшка,циклы,классы\\Менюшка,циклы,классы.csproj",
       "packagesPath": "C:\\Users\\Кирюха\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Кирюха\\source\\repos\\Menu+for+class\\Менюшка,циклы,классы\\obj\\",
+      "outputPath": "C:\\Users\\Кирюха\\source\\repos\\Menu+cycle+class\\Менюшка,циклы,классы\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Кирюха\\AppData\\Roaming\\NuGet\\NuGet.Config",

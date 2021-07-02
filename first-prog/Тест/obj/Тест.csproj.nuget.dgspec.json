@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кирюха\\source\\repos\\Тест\\Тест\\Тест.csproj": {}
+    "C:\\Users\\Кирюха\\source\\repos\\first-prog\\Тест\\Тест.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кирюха\\source\\repos\\Тест\\Тест\\Тест.csproj": {
+    "C:\\Users\\Кирюха\\source\\repos\\first-prog\\Тест\\Тест.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\Тест\\Тест\\Тест.csproj",
+        "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\first-prog\\Тест\\Тест.csproj",
         "projectName": "Тест",
-        "projectPath": "C:\\Users\\Кирюха\\source\\repos\\Тест\\Тест\\Тест.csproj",
+        "projectPath": "C:\\Users\\Кирюха\\source\\repos\\first-prog\\Тест\\Тест.csproj",
         "packagesPath": "C:\\Users\\Кирюха\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирюха\\source\\repos\\Тест\\Тест\\obj\\",
+        "outputPath": "C:\\Users\\Кирюха\\source\\repos\\first-prog\\Тест\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кирюха\\AppData\\Roaming\\NuGet\\NuGet.Config",

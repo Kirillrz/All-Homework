@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tx/DiXUKYDScayfWGOS+P/5S237WhBYovDe3DJYqeTMJ2rrgTIi3q5O5Klivh5a5Sh6LgfKdWq6A6p8T/glhWQ==",
+  "dgSpecHash": "b8l6ksdT5ay6bMvV4CdHDhNPpjzUudb/yUQQvZF+xJff/Z2oX8H1jjXrI4eImdB3aQEWbzPbxKbbwD+cQaDopA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
+  "projectFilePath": "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\Калькулятор.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

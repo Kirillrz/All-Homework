@@ -1,0 +1,16 @@
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.exe
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.deps.json
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.runtimeconfig.json
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.dll
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\ref\OOP_Entity.dll
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\bin\Debug\net5.0\OOP_Entity.pdb
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.dll
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\ref\OOP_Entity.dll
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.pdb
+C:\Users\Кирюха\source\repos\OOP_Entity\OOP_Entity\obj\Debug\net5.0\OOP_Entity.genruntimeconfig.cache

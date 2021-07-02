@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\Калькулятор.csproj": {}
+    "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\Калькулятор.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\Калькулятор.csproj": {
+    "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\Калькулятор.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
+        "projectUniqueName": "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\Калькулятор.csproj",
         "projectName": "Калькулятор",
-        "projectPath": "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\Калькулятор.csproj",
+        "projectPath": "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\Калькулятор.csproj",
         "packagesPath": "C:\\Users\\Кирюха\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирюха\\source\\repos\\Калькулятор\\Калькулятор\\obj\\",
+        "outputPath": "C:\\Users\\Кирюха\\source\\repos\\calc\\Калькулятор\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кирюха\\AppData\\Roaming\\NuGet\\NuGet.Config",
