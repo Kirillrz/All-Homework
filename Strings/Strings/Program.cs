@@ -32,7 +32,7 @@ namespace Strings
             var strB = new StringBuilder(str);         // инициализация билдера
             strB.AppendLine("Using of StringBuilder");     // добавление строчки в билдер
             str = strB.ToString();                     // присваиваем переменной str всё, что успели внести в билдер
-            str = str.Substring(0,5);        //выкидывает первые (5)
+            str = str.Substring(0,5);        //выкидывает с 0 по 5 символы
             var equal = str.Equals(str1);   //сравнение
        
         }
