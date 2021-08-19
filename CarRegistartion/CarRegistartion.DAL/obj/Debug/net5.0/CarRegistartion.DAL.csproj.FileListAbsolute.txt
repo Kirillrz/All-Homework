@@ -1,0 +1,12 @@
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\bin\Debug\net5.0\CarRegistartion.DAL.deps.json
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\bin\Debug\net5.0\CarRegistartion.DAL.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\bin\Debug\net5.0\ref\CarRegistartion.DAL.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\bin\Debug\net5.0\CarRegistartion.DAL.pdb
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\ref\CarRegistartion.DAL.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistartion.DAL\obj\Debug\net5.0\CarRegistartion.DAL.pdb

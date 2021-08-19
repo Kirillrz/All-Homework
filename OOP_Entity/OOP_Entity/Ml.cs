@@ -16,11 +16,18 @@ namespace OOP_Entity
         {
 
         }
-
-        protected override void Breathe()
+        protected virtual void Breathe()
         {
-            //Using Lungs 
+            base.Breathe();
         }
+
+        
+
+
+        //protected override void Breathe()
+        //{
+        //    //Using Lungs 
+        //}
         public virtual int LungsSize { get; set; }
         public virtual bool Beat (Entity entity)
         {

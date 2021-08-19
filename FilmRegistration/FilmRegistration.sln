@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmRegistration.Presentation.WinForm", "FilmRegistration.Presentation.WinForm\FilmRegistration.Presentation.WinForm.csproj", "{634D31D2-C675-46E4-809A-4B3132FB8AEC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE} = {2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}
+		{C416CDD3-22C4-4390-BEDF-09F8093AD2BF} = {C416CDD3-22C4-4390-BEDF-09F8093AD2BF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmRegistartion.BusinessLogicLayer", "FilmRegistartion.BusinessLogicLayer\FilmRegistartion.BusinessLogicLayer.csproj", "{C416CDD3-22C4-4390-BEDF-09F8093AD2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmRegistartion.DateAccessLayer", "FilmRegistartion.DateAccessLayer\FilmRegistartion.DateAccessLayer.csproj", "{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634D31D2-C675-46E4-809A-4B3132FB8AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634D31D2-C675-46E4-809A-4B3132FB8AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634D31D2-C675-46E4-809A-4B3132FB8AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634D31D2-C675-46E4-809A-4B3132FB8AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C416CDD3-22C4-4390-BEDF-09F8093AD2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C416CDD3-22C4-4390-BEDF-09F8093AD2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C416CDD3-22C4-4390-BEDF-09F8093AD2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C416CDD3-22C4-4390-BEDF-09F8093AD2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2952B7-B1EF-47F1-B7A9-70CF2E7E66EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88729AE4-8590-4B44-9C3C-3B148878F5AC}
+	EndGlobalSection
+EndGlobal

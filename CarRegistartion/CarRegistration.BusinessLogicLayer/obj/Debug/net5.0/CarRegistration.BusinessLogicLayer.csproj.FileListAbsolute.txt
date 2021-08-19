@@ -1,0 +1,15 @@
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\CarRegistration.BusinessLogicLayer.deps.json
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\CarRegistration.BusinessLogicLayer.runtimeconfig.json
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\CarRegistration.BusinessLogicLayer.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\CarRegistration.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\ref\CarRegistration.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\bin\Debug\net5.0\CarRegistration.BusinessLogicLayer.pdb
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\ref\CarRegistration.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.pdb
+C:\Users\Кирюха\source\repos\CarRegistartion\CarRegistration.BusinessLogicLayer\obj\Debug\net5.0\CarRegistration.BusinessLogicLayer.genruntimeconfig.cache

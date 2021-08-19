@@ -1,0 +1,12 @@
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\bin\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.deps.json
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\bin\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\bin\Debug\net5.0\ref\FilmRegistartion.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\bin\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.pdb
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\ref\FilmRegistartion.BusinessLogicLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.BusinessLogicLayer\obj\Debug\net5.0\FilmRegistartion.BusinessLogicLayer.pdb

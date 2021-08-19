@@ -1,0 +1,15 @@
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\FilmRegistartion.DateAccessLayer.deps.json
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\FilmRegistartion.DateAccessLayer.runtimeconfig.json
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\FilmRegistartion.DateAccessLayer.runtimeconfig.dev.json
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\FilmRegistartion.DateAccessLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\ref\FilmRegistartion.DateAccessLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\bin\Debug\net5.0\FilmRegistartion.DateAccessLayer.pdb
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.AssemblyInfo.cs
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\ref\FilmRegistartion.DateAccessLayer.dll
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.pdb
+C:\Users\Кирюха\source\repos\FilmRegistration\FilmRegistartion.DateAccessLayer\obj\Debug\net5.0\FilmRegistartion.DateAccessLayer.genruntimeconfig.cache

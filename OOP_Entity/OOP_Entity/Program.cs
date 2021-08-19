@@ -9,8 +9,8 @@ namespace OOP_Entity
         public int Age { get; }
         public abstract void Move();
         protected virtual void Breathe()
-        { 
-
+        {
+            
         }
         protected Entity (int age)
         {
